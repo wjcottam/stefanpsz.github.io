@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Stefan Pszczolkowski P., Ph.D."
+title                    : "Stefan Pszczolkowski P. / Ph.D."
 title_separator          : "-"
 name                     : &name "Stefan Pszczolkowski P."
 description              : &description "Researcher on Medical Image Analysis"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Stefan Pszczolkowski P."
   avatar           : "profile.png"
-  bio              : "Researcher on Medical Image Analysis"
+  bio              : "Computer Scientist. Researcher on Medical Image Analysis"
   location         : "Nottingham, UK"
   employer         : "The University of Nottingham"
   googlescholar    : "https://scholar.google.co.uk/citations?user=Rc45MsEAAAAJ&hl=en"
