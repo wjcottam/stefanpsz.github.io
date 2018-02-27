@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Stefan Pszczolkowski P. / Ph.D."
 title_separator          : "-"
 name                     : &name "Stefan Pszczolkowski P."
-description              : &description "Researcher on Medical Image Analysis"
+description              : &description ""
 url                      : https://stefanpsz.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "stefanpsz/stefanpsz.github.io"
@@ -80,7 +80,7 @@ analytics:
 author:
   name             : "Stefan Pszczolkowski P."
   avatar           : "profile.png"
-  bio              : "Computer Scientist. Researcher on Medical Image Analysis"
+  bio              : "Computer Scientist. Researcher on Medical Image Analysis."
   location         : "Nottingham, UK"
   employer         : "The University of Nottingham"
   googlescholar    : "https://scholar.google.co.uk/citations?user=Rc45MsEAAAAJ&hl=en"
@@ -227,17 +227,17 @@ defaults:
       type: portfolio
     values:
       layout: single
-      author_profile: false
-      share: false
-      comment: false
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
-      author_profile: false
-      share: false
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
