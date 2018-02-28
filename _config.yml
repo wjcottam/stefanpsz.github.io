@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Stefan Pszczolkowski P. (M.Sc., Ph.D.)"
+title                    : "Stefan Pszczolkowski P. (Ph.D.)"
 title_separator          : "-"
 name                     : &name "Stefan Pszczolkowski P."
 description              : &description ""
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stefan Pszczolkowski P. (M.Sc., Ph.D.)"
+  name             : "Stefan Pszczolkowski P. (Ph.D.)"
   avatar           : "profile.png"
   bio              : "Computer Scientist. Researcher on Medical Image Analysis."
   location         : "Nottingham, UK"
