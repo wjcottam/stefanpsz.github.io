@@ -1,7 +1,7 @@
 ---
 title: "A robust similarity measure for volumetric image registration with outliers"
 collection: publications
-permalink: 
+permalink: https://www.sciencedirect.com/science/article/pii/S0262885616300841
 excerpt: 'Robust cosine similarity measure'
 date: 2016-08-01
 venue: 'Image and Vision Computing'

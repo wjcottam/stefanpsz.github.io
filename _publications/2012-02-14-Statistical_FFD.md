@@ -1,7 +1,7 @@
 ---
 title: "Nonrigid free-form registration using landmark-based statistical deformation models"
 collection: publications
-permalink: 
+permalink: https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8314/831418/Nonrigid-free-form-registration-using-landmark-based-statistical-deformation-models/10.1117/12.911441.short
 excerpt: 'Learning-based statistical free-form deformation model for registration'
 date: 2012-02-14
 venue: 'SPIE Medical Imaging 2012: Image Processing'
