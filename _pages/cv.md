@@ -9,34 +9,49 @@ redirect_from:
 
 {% include base_path %}
 
+
 Education
 ======
 * Ph.D in Medical Imaging, Imperial College London, 2015
 * M.Sc. in Engineering Sciences, Pontificia Universidad Cat&oacute;lica de Chile, 2007
 * Computer Engineering, Pontificia Universidad Cat&oacute;lica de Chile, 2007
 
+
 Work experience
 ======
 * 2014-2015: Research Fellow
   * The University of Nottingham, Nottingham, UK
-  * Supervisor: Dr. Rob Dineen and Dr. Nikola Sprigg
+  * Supervisors: Dr. Rob Dineen and Dr. Nikola Sprigg
 * 2014-2015: Research Assistant
   * Imperial College London, London, UK
   * Supervisor: Prof. Daniel Rueckert
 * 2007-2010: Software Engineer and Project Manager
-  * Cursor
-  * Santiago, Chile
+  * Cursor, Santiago, Chile
   
+
+Training
+======
+* Dec 2017: Preparing to Teach in Higher Education Certificate, University of Nottingham, UK
+  * Apr 2017: Preparing to Teach in Higher Education
+  * May 2017: Foundations of Teaching in Higher Education
+  * Jun 2017: Lecturing for Learning
+  * Nov 2017: Small Group Teaching
+* Sep 2017: GCP (Good Clinical Practice) refresher, NIHR, UK
+* Dec 2015: GCP (Good Clinical Practice), NIHR, UK
+
+
 Awards
 ======
-* 2012 Runner-up in the Google PhD Poster Competition (2nd year category), Imperial College London.
-* 2009 CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
+* 2012: Runner-up in the Google PhD Poster Competition (2nd year category), Imperial College London.
+* 2009: CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
   
+
 Other
 ======
 * Member of the organising comitee and travel grants administrator
   * Chile-Global Seminars UK.
-  
+
+
 Skills
 ======
 * Operating Systems
@@ -45,13 +60,18 @@ Skills
   * Windows
 * Programming Languages
   * C/C++
-  * Matlab
-  * Bash
   * Java
+  * Matlab
   * Python
+  * Bash
 * Databases
   * MySQL
   * PostgreSQL
+* Tools
+  * Eclipse
+  * Microsoft Office
+  * LaTEX
+
   
 Publications
 ======
@@ -59,12 +79,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-  
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
 
 Languages
 ======
