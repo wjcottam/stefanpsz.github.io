@@ -10,6 +10,4 @@ citation: 'Snape, P., <b>Pszczolkowski, S.</b>, Zafeiriou, S., Tzimiropoulos, G.
 ---
 Robust cosine similarity measure.
 
-[Download paper here](http://stefanpsz.github.io/files/2016-08-01-Cosine_similarity_journal.pdf)
-
 Recommended citation: Snape, P., <b>Pszczolkowski, S.</b>, Zafeiriou, S., Tzimiropoulos, G., Ledig, C. and Rueckert, D., 2016. "A robust similarity measure for volumetric image registration with outliers" <i>Image and Vision Computing</i>, 52, pp.97-113
