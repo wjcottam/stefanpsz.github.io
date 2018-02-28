@@ -1,5 +1,5 @@
 ---
-title: "Databases"
+title: "Databases (First semester 2010)"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2010-Databases_course

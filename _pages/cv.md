@@ -18,12 +18,10 @@ Education
 Work experience
 ======
 * 2014-2015: Research Fellow
-  * The University of Nottingham
-  * Nottingham, UK
+  * The University of Nottingham, Nottingham, UK
   * Supervisor: Dr. Rob Dineen and Dr. Nikola Sprigg
 * 2014-2015: Research Assistant
-  * Imperial College London
-  * London, UK
+  * Imperial College London, London, UK
   * Supervisor: Prof. Daniel Rueckert
 * 2007-2010: Software Engineer and Project Manager
   * Cursor
@@ -57,14 +55,14 @@ Skills
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reverse %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
