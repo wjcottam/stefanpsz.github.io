@@ -17,5 +17,5 @@ working under the supervision of <a href="http://www.doc.ic.ac.uk/~dr" target="_
 
 From December 2015, Stefan is a Research Fellow at the School of Medicine, University of Nottingham, working with 
 <a href="https://www.nottingham.ac.uk/medicine/people/rob.dineen" target="_blank">Dr. Rob Dineen</a> and 
-<a href="https://www.nottingham.ac.uk/medicine/people/nikola.sprigg" target="_blank">Dr. Nikola Sprigg</a> in the MRI sub-study within the <a href="http://tich-2.org" target="_blank">TICH-2</a>
+<a href="https://www.nottingham.ac.uk/medicine/people/nikola.sprigg" target="_blank">Prof. Nikola Sprigg</a> in the MRI sub-study within the <a href="http://tich-2.org" target="_blank">TICH-2</a>
 Randomised Clinical Trial.
