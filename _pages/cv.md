@@ -32,10 +32,10 @@ Work experience
 Training
 ======
 * Dec 2017: Preparing to Teach in Higher Education Certificate, University of Nottingham, UK
-  * Apr 2017: Preparing to Teach in Higher Education
-  * May 2017: Foundations of Teaching in Higher Education
-  * Jun 2017: Lecturing for Learning
   * Nov 2017: Small Group Teaching
+  * Jun 2017: Lecturing for Learning
+  * May 2017: Foundations of Teaching in Higher Education
+  * Apr 2017: Preparing to Teach in Higher Education
 * Sep 2017: GCP (Good Clinical Practice) refresher, NIHR, UK
 * Dec 2015: GCP (Good Clinical Practice), NIHR, UK
 
