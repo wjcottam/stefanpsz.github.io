@@ -19,7 +19,7 @@ Education
 
 Work experience
 ======
-* 2014-2015: Research Fellow
+* 2015-: Research Fellow
   * The University of Nottingham, Nottingham, UK
   * Supervisors: Dr. Rob Dineen and Dr. Nikola Sprigg
 * 2014-2015: Research Assistant
