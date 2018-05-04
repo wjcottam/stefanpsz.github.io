@@ -12,7 +12,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Medical Imaging, Imperial College London, 2015
+* Ph.D in Medical Image Analysis, Imperial College London, 2015
 * M.Sc. in Engineering Sciences, Pontificia Universidad Cat&oacute;lica de Chile, 2007
 * Computer Engineering, Pontificia Universidad Cat&oacute;lica de Chile, 2007
 
@@ -21,7 +21,7 @@ Work experience
 ======
 * 2015-: Research Fellow
   * The University of Nottingham, Nottingham, UK
-  * Supervisors: Dr. Rob Dineen and Dr. Nikola Sprigg
+  * Supervisors: Dr. Rob Dineen and Prof. Nikola Sprigg
 * 2014-2015: Research Assistant
   * Imperial College London, London, UK
   * Supervisor: Prof. Daniel Rueckert
