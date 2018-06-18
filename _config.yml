@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-GB"
-title                    : "Stefan Pszczolkowski P. (Ph.D.)"
+title                    : "William J Cottam MSc"
 title_separator          : "-"
-name                     : &name "Stefan Pszczolkowski P."
+name                     : &name "William J Cottam"
 description              : &description ""
-url                      : https://stefanpsz.github.io
+url                      : https://wjcottam.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "stefanpsz/stefanpsz.github.io"
+repository               : "wjcottam/wjcottam.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -55,7 +55,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : wjcottam
 facebook:
   username               :
   app_id                 :
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Stefan Pszczolkowski P. (Ph.D.)"
+  name             : "William J Cottam"
   avatar           : "profile.png"
-  bio              : "Computer Scientist. Researcher on Medical Image Analysis."
+  bio              : "Research Assistant. Researcher on Pain Neuroimaging."
   location         : "Nottingham, UK"
   employer         : "The University of Nottingham"
-  googlescholar    : "https://scholar.google.co.uk/citations?user=Rc45MsEAAAAJ&hl=en"
-  email            : "mszspp@nottingham.ac.uk"
+  googlescholar    : "https://scholar.google.com/citations?user=SQjBIQQAAAAJ&hl=en&oi=sra"
+  email            : "William.Cottam@nottingham.ac.uk"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,19 +92,19 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "stefanpsz"
+  github           : "wjcottam"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "stefan-pszczolkowski-parraguez-57195812"
-  orcid            : "https://orcid.org/0000-0002-5859-3190"
+  linkedin         : 
+  orcid            : "https://orcid.org/0000-0003-4045-8609"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "wjcottam"
   vine             :
   weibo            :
   xing             :
