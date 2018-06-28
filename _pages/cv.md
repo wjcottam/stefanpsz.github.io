@@ -12,45 +12,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Medical Image Analysis, Imperial College London, 2015
-* M.Sc. in Engineering Sciences, Pontificia Universidad Cat&oacute;lica de Chile, 2007
-* Computer Engineering, Pontificia Universidad Cat&oacute;lica de Chile, 2007
+* PhD in Pain Neuroimaging, University of Nottingham, 2018
+  * Supervisors: Prof. Dorothee Auer & Dr Radu Tanasescu
+* M.Sc. in Translational Neuroimaging, University of Nottingham, 2012
+* BSc (Hons) Biomedical Sciences, University of Leeds, 2011
 
 
 Work experience
 ======
-* 2015-: Research Fellow
+* 2013-: Research Assistant
   * The University of Nottingham, Nottingham, UK
-  * Supervisors: Dr. Rob Dineen and Prof. Nikola Sprigg (2015-2018)
-  * Supervisors: Dr. Rob Dineen and Prof. Dorothee Auer (2018-)
-* 2014-2015: Research Assistant
-  * Imperial College London, London, UK
-  * Supervisor: Prof. Daniel Rueckert
-* 2007-2010: Software Engineer and Project Manager
-  * Cursor, Santiago, Chile
-  
+  * Supervisor: Prof. Dorothee Auer
+
 
 Training
 ======
-* Dec 2017: Preparing to Teach in Higher Education Certificate, University of Nottingham, UK
-  * Nov 2017: Small Group Teaching
-  * Jun 2017: Lecturing for Learning
-  * May 2017: Foundations of Teaching in Higher Education
-  * Apr 2017: Preparing to Teach in Higher Education
-* Sep 2017: GCP (Good Clinical Practice) refresher, NIHR, UK
-* Dec 2015: GCP (Good Clinical Practice), NIHR, UK
+* Neuroscience School for Advanced Studies (NSAS) course on pain neuroimaging 2015 (led by Prof Vania Apkarian of Northwestern University).
+* Wellcome Trust course on Interacting with the Media, 2015.
+* GCP (Good Clinical Practice), NIHR, UK
 
 
 Awards
 ======
-* 2012: Runner-up in the Google PhD Poster Competition (2nd year category), Imperial College London.
-* 2009: CONICYT-Becas Chile scholarship for Doctoral studies, CONICYT.
-  
+* 2017: Best Poster at Nottingham NIHR Biomedical Research Centre symposium
+
 
 Other
 ======
-* Member of the organising comitee and travel grants administrator
-  * Chile-Global Seminars UK.
+* Co-organizer of 2018 Nottingham Arthritis Research UK Pain Centre outreach event to celebrate patient and public involvement with pain neuroimaging research.
+* Social Media lead for the NIHR Nottingham Biomedical Research Centre Imaging theme.
+
 
 
 Skills
@@ -60,40 +51,23 @@ Skills
   * MacOS
   * Windows
 * Programming Languages
-  * C/C++
-  * Java
   * Matlab
-  * Python
   * Bash
-* Databases
-  * MySQL
-  * PostgreSQL
 * Tools
-  * Eclipse
+  * Github
   * Microsoft Office
-  * LaTEX
 
-  
+
+
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-
-
-Languages
-======
-* Spanish
-  * Native
-* English
-  * Professional working proficiency
-  * Score 8.0 IELTS (Academic), June 2014
-* Polish
-  * Limited working proficiency
