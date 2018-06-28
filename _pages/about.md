@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "William J Cottam, PhD"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,6 +15,7 @@ I am a Research Assistant within the Arthritis UK Pain Centre working within the
 Research interests: Brain, Chronic pain, Connectivity, Phenotypes, Coordinate-based meta analysis
 ======
 
-My research interests are in using neuroimaging to better understand the central (brain-based) components underlying chronic pain. Specifically, I am interested in measures of brain connectivity (static, dynamic and/or effective) and metabolism and how that relates to chronic pain states. At the moment I do this using BOLD (Blood Oxygenation Level Dependent) and ASL (Arterial Spin Labelling) functional MRI. 
+My research interests are in using neuroimaging to better understand the central (brain-based) components underlying chronic pain. Specifically, I am interested in measures of brain connectivity (static, dynamic and/or effective) and metabolism and how that relates to chronic pain states. At the moment I do this using BOLD (Blood Oxygenation Level Dependent) and ASL (Arterial Spin Labelling) functional MRI. Additionally, I'm interested in ways of improving coordinate-based meta-analysis methods and their implementation. 
 
-My current work within the Arthritis Research UK Pain Centre is looking at phenotyping and longitudinal assessments of people with chronic knee osteoarthritis pain. 
+My current work within the Arthritis Research UK Pain Centre is looking at phenotyping and longitudinal assessments of people with chronic knee osteoarthritis pain.
+
