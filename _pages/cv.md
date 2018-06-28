@@ -53,21 +53,11 @@ Skills
 * Programming Languages
   * Matlab
   * Bash
+* Neuroimaging tools
+  * Familiar with: FSL, SPM, Freesurfer, DPARSF/DPABI/REST toolboxes
 * Tools
   * Github
   * Microsoft Office
 
 
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
